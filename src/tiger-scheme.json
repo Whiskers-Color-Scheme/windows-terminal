@@ -1,0 +1,23 @@
+{
+  "background": "#FFF9F0",
+  "black": "#865C3A",
+  "blue": "#5284BE",
+  "brightBlack": "#865C3A",
+  "brightBlue": "#5284BE",
+  "brightCyan": "#5284BE",
+  "brightGreen": "#6A9534",
+  "brightPurple": "#7D0E70",
+  "brightRed": "#B43A2A",
+  "brightWhite": "#3E1900",
+  "brightYellow": "#A87B0A",
+  "cursorColor": "#3E1900",
+  "cyan": "#5284BE",
+  "foreground": "#3E1900",
+  "green": "#6A9534",
+  "name": "Whiskers Tiger",
+  "purple": "#7D0E70",
+  "red": "#B43A2A",
+  "selectionBackground": "#865C3A",
+  "white": "#3E1900",
+  "yellow": "#A87B0A"
+}

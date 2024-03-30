@@ -1,0 +1,20 @@
+{
+  "name": "Whiskers Tiger",
+  "tab": {
+    "background": "#FFF9F0FF",
+    "iconStyle": "default",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#FFF9F0FF",
+    "unfocusedBackground": "#FFF9F0FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "experimental.rainbowFrame": false,
+    "frame": null,
+    "unfocusedFrame": null,
+    "useMica": false
+  }
+}

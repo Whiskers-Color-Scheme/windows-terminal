@@ -1,0 +1,23 @@
+{
+  "background": "#0E0600",
+  "black": "#E5D2C5",
+  "blue": "#A5CEFF",
+  "brightBlack": "#E5D2C5",
+  "brightBlue": "#A5CEFF",
+  "brightCyan": "#A5CEFF",
+  "brightGreen": "#B1E380",
+  "brightPurple": "#FFAAF5",
+  "brightRed": "#FF8C7C",
+  "brightWhite": "#FFEEE2",
+  "brightYellow": "#FFE072",
+  "cursorColor": "#FFEEE2",
+  "cyan": "#A5CEFF",
+  "foreground": "#FFEEE2",
+  "green": "#B1E380",
+  "name": "Whiskers Panther",
+  "purple": "#FFAAF5",
+  "red": "#FF8C7C",
+  "selectionBackground": "#E5D2C5",
+  "white": "#FFEEE2",
+  "yellow": "#FFE072"
+}
